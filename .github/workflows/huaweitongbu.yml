@@ -1,5 +1,5 @@
 # File: .github/workflows/repo-sync.yml
-name: 同步 jdsign
+name: 同步 华为云码豆
 on:
   schedule:
     - cron: '1 0,15 * * *'
